@@ -34,7 +34,7 @@ def main():
             prevImgSetNum = currImgSetNum
             
         else:
-            time.sleep(2)
+            time.sleep(0.1)
 
 
 
