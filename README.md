@@ -13,3 +13,4 @@ To receive data from the image microservice, read the file paths for all images 
 with open('imgPath.txt','r') as file:
   paths = file.read()
 ```
+![UML Sequence Diagram](Image Microservice UML.png)
