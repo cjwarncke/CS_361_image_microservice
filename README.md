@@ -1,4 +1,4 @@
-# CS_361_image_microservice Communication Contract
+# Image Microservice Communication Contract
 
 ## A. Requesting Data
 To request data from the image microservice, write a digit corresponding to the current image set being diplayed to imgSrv.txt
